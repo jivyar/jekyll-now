@@ -6,7 +6,7 @@
 name: Jivya Rajesh
 
 # Short bio or description (displayed in the header)
-description: Learning to code
+description: a personal odyssey, documented
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +21,9 @@ footer-links:
   email: j.rajesh@se18.qmul.ac.uk
 #  facebook:
 #  flickr:
-  github: jivyar/jivyarajesh.github.io
+  github: jivyar
   instagram: l1feg0es0n
-  linkedin: https://www.linkedin.com/in/jivya-rajesh/
+  linkedin: jivya-rajesh
 #  pinterest:
 #  rss: # just type anything here for a working RSS icon
 #  twitter: jekyllrb
