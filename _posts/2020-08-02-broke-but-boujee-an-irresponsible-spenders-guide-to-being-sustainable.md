@@ -3,6 +3,8 @@ layout: post
 title: Broke, Boujee & Being Sustainable - an irresponsible spender's guide
 ---
 
+### the bad bitch edition
+
 **As an engineer,** I obviously want to try to be sustainable and produce as little waste as possible. However, as an **engineering student living in London**? It's a thought that seems wild and unattainable. Especially for someone like me, who can't seem to resist a Pretty Little Thing sale, the ease of single-click Amazon Prime and the semi-regular takeaway. 
 
 With a bit of money saved over from months spent in lockdown and the free time to enable research into this area, I decided to see if a London-based student can feasibly reduce the amount of waste they cause, with minimal expenditure. 
