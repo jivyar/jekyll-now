@@ -25,4 +25,4 @@ It is slightly more time-consuming to go through the process of perfecting using
 
 3.
 
-I have Amazon affiliate links scattered throughout this article so please do your girl a favour and click to buy! (I know this article literally tells you not to use Amazon but sometimes :dizzy: exceptions :dizzy: have to be made amiright)
+I have Amazon affiliate links scattered throughout this article so please do your girl a favour and click to buy! (I know this article literally tells you not to use Amazon but sometimes  exceptions :dizzy: have to be made amiright)
