@@ -11,6 +11,8 @@ With a bit of money saved over from months spent in lockdown and the free time t
 
 If you're anything like me, keep reading and hopefully we can work on cutting down together.
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 1. Reusable coffee pods
 
 Picture the scene - Cyber Monday in first year. Its the day before a big exam and Amazon has a huge sale on. The stress and ingrained consumerism amalgamate and you click "Buy" on a £30 coffee machine. 'Its cheaper than buying Starbucks everyday', you comfort yourself, while the instant coffee in your cupboard cries silent tears. The sale gave you the hit of serotonin you were desperately seeking at the time, but what you didn't realise is that you'd be purchasing and disposing of single-use plastic coffee pods every few weeks. Over time the guilt of seeing those pods pile up and drip old coffee juice inside your bin gets to you, but the money you spent on this machine makes you feel like you have no other choice but to stay in this circle of expense with no escape.
