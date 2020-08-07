@@ -11,7 +11,7 @@ With a bit of money saved over from months spent in lockdown and the free time t
 
 If you're anything like me, keep reading and hopefully we can work on cutting down together.
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
 
 1. Reusable coffee pods
 
