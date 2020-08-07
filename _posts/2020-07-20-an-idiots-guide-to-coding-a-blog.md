@@ -1,5 +1,5 @@
 ---
 layout: post
-title: an idiot's guide to coding a blog
+title: the stages of an idiot attempting to code a blog
 ---
 #### hint: it's me, i'm the idiot
