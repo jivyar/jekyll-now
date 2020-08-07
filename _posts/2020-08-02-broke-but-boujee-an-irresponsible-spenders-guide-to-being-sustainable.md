@@ -25,5 +25,5 @@ It is slightly more time-consuming to go through the process of perfecting using
 
 2.
 
-I have Amazon affiliate links scattered throughout this article so please do your girl a favour and click to buy! (I know this article literally tells you not to use Amazon but sometimes :dizzy: exceptions :dizzy: have to be made amiright)
+I have Amazon affiliate links scattered throughout this article so please do your girl a favour and click to buy! (I know this article literally tells you not to use Amazon but sometimes exceptions have to be made amiright :+1:)
 
