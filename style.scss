@@ -17,10 +17,12 @@ html {
   font-size: 100%;
 }
 
+$background-colour: ##48D1CC;
+
 body {
-	background: $white;
+	background: $background-colour;
   font: 18px/1.4 $helvetica;
-  color: $48D1CC;
+  color: $white;
 }
 
 .container {
@@ -32,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $48D1CC;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
